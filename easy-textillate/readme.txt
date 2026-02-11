@@ -3,7 +3,7 @@ Contributors: Flector
 Donate link: https://www.paypal.me/flector
 Tags: animate, css3, animation, animations, css3 animations, animate.css, textillate, text animation
 Requires at least: 3.3
-Tested up to: 6.6
+Tested up to: 6.8
 Requires PHP: 5.3
 Stable tag: trunk
 
